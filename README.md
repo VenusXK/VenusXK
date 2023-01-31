@@ -1,4 +1,10 @@
-### Hi there 👋
+### 你好！我是张景赫，目前在中国石油大学（华东）念书，欢迎访问我的网站 (www.venusxk.com)
+- 😋 喜欢艺术，目前在学习Blender的建模、雕刻等知识，喜欢绘画；
+- 🧑🏽‍💻 目前主要事情是准备考研，在学习408和数学知识；
+- 📨 我的邮箱是 venusxk6214@foxmail.com，有需要可以联系我；
+
+### 最近在github上的更新
+
 
 <!--
 **VenusXK/VenusXK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

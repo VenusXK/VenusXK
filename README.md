@@ -7,8 +7,7 @@
 - 📨 我的邮箱是 venusxk6214@foxmail.com，有需要可以联系我；
 - 📨 My email address is venusxk6214@foxmail.com, you can contact me if you need it;
 
-### 最近在 `github` 上的更新
-### Recent update on github
+### 最近在 `github` 上的更新 &nbsp; Recent update on github
 
 <br>
 <div align=center>

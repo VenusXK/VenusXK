@@ -7,7 +7,17 @@
 - 📨 我的邮箱是 venusxk6214@foxmail.com，有需要可以联系我；
 - 📨 My email address is venusxk6214@foxmail.com, you can contact me if you need it;
 
-### 最近在github上的更新
+### 最近在 `github` 上的更新
+### Recent update on github
+
+<br>
+<div align=center>
+    <img decoding="async" src="./readme_file/gallery.jpg" width="60%" >
+
+[我看过的书籍和电影陈列馆](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+
+[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+</div>
 
 
 <!--

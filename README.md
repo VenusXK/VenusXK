@@ -10,11 +10,40 @@
 ### 最近在 `github` 上的更新 &nbsp; Recent update on github
 
 <br>
+
+
+<table>
+    <tr>
+<td>
 <div align=center>
-    <img decoding="async" src="./readme_file/gallery.jpg" width="60%" >
+<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
 
 [My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
 </div>
+</td>
+<td>
+<div align=center>
+<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+
+[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+</div>
+</td>
+<td>
+<div align=center>
+<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+
+[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+</div>
+</td>
+<td>
+<div align=center>
+<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+
+[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+</div>
+</td>
+    </tr>
+</table>
 
 
 <!--

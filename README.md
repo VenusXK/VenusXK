@@ -17,7 +17,7 @@
 
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/material.jpg" width="100%" border-radius="3px" >
+<img decoding="async" src="./readme_file/material.jpg" width="1500px" border-radius="3px" >
 
 [Reference-Image-Presenter-for-Artistic-Creation](https://github.com/VenusXK/Reference-Image-Presenter-for-Artistic-Creation)
 </div>
@@ -25,7 +25,7 @@
 
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+<img decoding="async" src="./readme_file/gallery.jpg" width="1500px" >
 
 [My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
 </div>
@@ -33,16 +33,16 @@
 
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+<img decoding="async" src="./readme_file/poster.png" width="1500px" >
 
-[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+[Student-Learning-Status-in-Class](https://github.com/VenusXK/Student-Learning-Status-in-Class)
 </div>
 </td>
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+<img decoding="async" src="./readme_file/ocr2.png" width="1500px"  >
 
-[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+[Typographical-OCR](https://github.com/VenusXK/Typographical-OCR)
 </div>
 </td>
     </tr>

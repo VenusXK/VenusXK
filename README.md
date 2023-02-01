@@ -18,33 +18,51 @@
 <td>
 <div align=center>
 <img decoding="async" src="./readme_file/material.jpg" width="1500px" border-radius="3px" >
-
-[Reference-Image-Presenter-for-Artistic-Creation](https://github.com/VenusXK/Reference-Image-Presenter-for-Artistic-Creation)
 </div>
 </td>
 
 <td>
 <div align=center>
 <img decoding="async" src="./readme_file/gallery.jpg" width="1500px" >
+</div>
+</td>
+
+<td>
+<div align=center>
+<img decoding="async" src="./readme_file/classroom.png" width="1500px" >
+</div>
+</td>
+<td>
+<div align=center>
+<img decoding="async" src="./readme_file/ocr.png" width="1500px"  >
+</div>
+</td>
+    </tr>
+    <tr>
+        <td>
+<div align=center>
+
+[Reference-Image-Presenter-for-Artistic-Creation](https://github.com/VenusXK/Reference-Image-Presenter-for-Artistic-Creation)
+</div>
+        </td>
+        <td>
+<div align=center>
 
 [My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
 </div>
-</td>
-
-<td>
+        </td>
+        <td>
 <div align=center>
-<img decoding="async" src="./readme_file/poster.png" width="1500px" >
 
 [Student-Learning-Status-in-Class](https://github.com/VenusXK/Student-Learning-Status-in-Class)
 </div>
-</td>
-<td>
+        </td>
+        <td>
 <div align=center>
-<img decoding="async" src="./readme_file/ocr2.png" width="1500px"  >
 
 [Typographical-OCR](https://github.com/VenusXK/Typographical-OCR)
 </div>
-</td>
+        </td>
     </tr>
 </table>
 

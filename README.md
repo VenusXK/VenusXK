@@ -23,9 +23,9 @@
 </td>
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/gallery.jpg" width="100%" >
+<img decoding="async" src="./readme_file/material.jpg" width="100%" >
 
-[My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
+[Reference-Image-Presenter-for-Artistic-Creation](https://github.com/VenusXK/Reference-Image-Presenter-for-Artistic-Creation)
 </div>
 </td>
 <td>

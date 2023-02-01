@@ -23,7 +23,7 @@
 </td>
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/material.jpg" width="100%" >
+<img decoding="async" src="./readme_file/material2.jpg" width="100%" border-radius="3px" >
 
 [Reference-Image-Presenter-for-Artistic-Creation](https://github.com/VenusXK/Reference-Image-Presenter-for-Artistic-Creation)
 </div>

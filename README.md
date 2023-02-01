@@ -13,8 +13,6 @@
 <div align=center>
     <img decoding="async" src="./readme_file/gallery.jpg" width="60%" >
 
-[我看过的书籍和电影陈列馆](https://github.com/VenusXK/My-Books-and-Film-Gallery)
-
 [My-Books-and-Film-Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
 </div>
 

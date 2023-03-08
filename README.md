@@ -15,7 +15,7 @@
 
 <td>
 <div align=center>
-<img decoding="async" src="./readme_file/classroom.png" width="1500px" >
+<img decoding="async" src="./readme_file/yolo.png" width="1500px" >
 </div>
 </td>
 

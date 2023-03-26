@@ -12,14 +12,20 @@
 
 <table>
     <tr>
+    
+<td style="background:black;border-right:1px solid white">
+<div align=center >
+<img decoding="async" src="./readme_file/WebShell.png" width="1500px"  >
+</div>
+</td>
 
-<td>
+<td style="background:black;border-right:1px solid white">
 <div align=center>
 <img decoding="async" src="./readme_file/yolo.png" width="1500px" >
 </div>
 </td>
 
-<td>
+<td style="background:black">
 <div align=center>
 <img decoding="async" src="./readme_file/material.jpg" width="1500px" border-radius="3px" >
 </div>
@@ -30,14 +36,14 @@
 <img decoding="async" src="./readme_file/gallery.jpg" width="1500px" >
 </div>
 </td>
-
-<td>
-<div align=center>
-<img decoding="async" src="./readme_file/ocr.png" width="1500px"  >
-</div>
-</td>
     </tr>
     <tr>
+<td>
+<div align=center>
+
+[Web Shell By XtermJS](https://github.com/VenusXK/Remote-Web-Terminal)
+</div>
+</td>
 <td>
 <div align=center>
 
@@ -54,12 +60,6 @@
 <div align=center>
 
 [My Books and Film Gallery](https://github.com/VenusXK/My-Books-and-Film-Gallery)
-</div>
-</td>
-<td>
-<div align=center>
-
-[Typographical OCR](https://github.com/VenusXK/Typographical-OCR)
 </div>
 </td>
     </tr>
